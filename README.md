@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayush-203/Ayush-203/blob/main/Github.1.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Kar</h1>
 <h3 align="center">BTech Student | Web Developer | DSA Enthusiast | Cloud Learner</h3>
 
